@@ -1,0 +1,22 @@
+body {
+    background-color: #000;
+    color: #ccc;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.temp,
+.wind {
+    font-size: 2em;
+}
+
+.notWindy {
+    display: none;
+}
+
+.whenWindy {
+    display: block;
+}
+
+.error {
+    color: #c03
+}
